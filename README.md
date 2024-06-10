@@ -1,2 +1,2 @@
 # Smite2Builds
-Aplicativo Web para criação e simulação de builds
+Um aplicativo Web para criação e simulação de builds do jogo Smite 2
